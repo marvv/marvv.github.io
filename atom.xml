@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
-  <updated>2016-01-10T12:22:12.000Z</updated>
+  <updated>2016-01-10T12:28:37.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,12 +15,12 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title><![CDATA[test]]></title>
+    <title><![CDATA[goodbye,2015]]></title>
     <link href="http://yoursite.com/2016/01/10/goodbye2015/"/>
     <id>http://yoursite.com/2016/01/10/goodbye2015/</id>
     <published>2016-01-10T11:02:52.000Z</published>
-    <updated>2016-01-10T12:22:12.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="goodbye_2C2015"><a href="#goodbye_2C2015" class="headerlink" title="goodbye,2015"></a>goodbye,2015</h1><p>  2015总算过去了，大概是本科毕业以来最糟糕的一年。</p>
+    <updated>2016-01-10T12:28:37.000Z</updated>
+    <content type="html"><![CDATA[<p>  2015总算过去了，大概是本科毕业以来最糟糕的一年。</p>
 <hr>
 <h2 id="u5C34_u5C2C_u7684_u9879_u76EE"><a href="#u5C34_u5C2C_u7684_u9879_u76EE" class="headerlink" title="尴尬的项目"></a>尴尬的项目</h2><p>  年初部门调整，与open的一拨人合并到了一起，接着3月做了一个众筹的项目。做之前好像挺急的，3月初一起碰头，说3月底要出版本。等开始做了，进步明显不对，产品缺乏规划给不出完整的需求，有哪些模块，需要做成什么样，排期。而开发这边没在一块办公，有问题在群里讨论，效率很低。结果就是到了时间点做出的活实在不怎么样，直接被上面否掉了，产品直接离职了——项目根本都还上线过…接着又做了一个众创的项目，这次吸取教训开发、产品坐到了一起，但是做的过程中还是有些问题，比如相互的磨合，开发、产品、pm、设计之间，少了一点激情，没有特别明确的需求规划，好像回到了之前做游戏的时候，自己都不喜欢自己参与的产品。好不容易6、7月份上线了，正准备做二期，项目被整个转给了北京的一个团队，真是有些无语。然后整个团队打散，我们合并到了平台线，又回过头维护之前的那些服务，兜兜转转又回到了起点，整个上半年一无所成。</p>
 <hr>
@@ -39,7 +39,9 @@
 </ul>
 ]]></content>
     <summary type="html">
-    <![CDATA[<h1 id="goodbye_2C2015"><a href="#goodbye_2C2015" class="headerlink" title="goodbye,2015"></a>goodbye,2015</h1><p>  2015总算过去了，大概是本科毕业以来最糟糕的一]]>
+    <![CDATA[<p>  2015总算过去了，大概是本科毕业以来最糟糕的一年。</p>
+<hr>
+<h2 id="u5C34_u5C2C_u7684_u9879_u76EE"><a href="#u5C34_u5C2C_u7684_u9879_u76EE" class="headerlink" ]]>
     </summary>
     
   </entry>
