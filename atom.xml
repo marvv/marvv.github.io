@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[marv's notes]]></title>
+  
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2016-01-10T11:03:31.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name><![CDATA[marv]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[test]]></title>
+    <link href="http://yoursite.com/2016/01/10/test/"/>
+    <id>http://yoursite.com/2016/01/10/test/</id>
+    <published>2016-01-10T11:02:52.000Z</published>
+    <updated>2016-01-10T11:03:31.000Z</updated>
+    <content type="html"></content>
+    <summary type="html">
+    
+    </summary>
+    
+  </entry>
+  
+</feed>
